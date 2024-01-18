@@ -795,3 +795,5 @@ while wait(5) do
     local Encoded = HttpService:JSONEncode(EncodeConfig(Settings));
     writefile("fates-esp.json", Encoded);
 end
+
+print(yourgay)
